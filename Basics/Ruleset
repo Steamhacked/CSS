@@ -1,0 +1,11 @@
+Ruleset - a block of code that defines rules to be followed by corresponding HTML elements
+
+E.G.:
+
+.container p: first-child:: first-letter{
+  color: red;
+  border-radius: 3px;
+  font-size: 15px;
+  text-transform: lowercase;
+  }
+
