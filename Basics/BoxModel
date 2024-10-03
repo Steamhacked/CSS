@@ -1,0 +1,6 @@
+Box Model - governs the structure of elements and consists of several parts: content, padding, border and margin (from inside outwards)
+
+Content - bounded by content edge, sized with height and width, contains actual data
+Padding - space within border box that surrounds content
+Border - lies between padding and margin
+Margin - separates element from an adjacent element
