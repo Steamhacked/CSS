@@ -1,1 +1,6 @@
+> - direct children of a specified object -> div > p
++ - element directly adjacent to a specified object -> h1 + p
+~ - all elements that are siblings of a specified element -> h1 ~ p
+  - descendant elements of a specified object -> div p
+
 
