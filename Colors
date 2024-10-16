@@ -1,0 +1,27 @@
+CSS allows for HTML object coloring, it uses various color notations including: RGB, RGBA, Hex, HSL, HSLA and Color Name
+
+h1{
+  color: color_name;
+}
+
+E.G.:
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>CSS Color_name Color</title>
+  
+    <style>
+        h1 {
+            color: green;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>GeeksforGeeks</h1>
+</body>
+
+</html>
