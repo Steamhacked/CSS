@@ -1,0 +1,7 @@
+Font Family -> Defines font family -> font-family: "Helvetica", times, serif;
+Font Style -> Defines font style -> font-style: italic; -> (italic, normal, oblique)
+Font Weight -> Defines font weight -> font-weight: bold; -> (lighter, normal, bold, bolder, 100, 900)
+Font Variant -> Defines font variation -> font-variant: small-caps; -> (normal, small-caps)
+Font Size -> Defines font size -> font-size: 12px; -> (px, em, %, pt, etc.)
+Font Stretch -> Defines font width -> font-stretch: condensed; -> (normal, ultra/extra - condensed/expanded)
+Font Kerning -> Defines spacing between characters -> font-kerning: normal; -> (auto, normal, none)
